@@ -1,0 +1,40 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Editor\Doxygen\DoxygenWindow.cs">
+    <Files>
+      <File FileName="Assets\Scripts\KeyItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameVariables.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\attack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CheckPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CountdownTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyOverTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyPatrol.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KillPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainScreenAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ParaRelaxing.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TextBoxManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Hero\Player_Controler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Text\gameText.txt" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BossHealthManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BossWall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BossPatrol.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KeyRandomSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyHealthManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FallingPlatform.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelCheat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Editor\Doxygen\DoxygenWindow.cs" Line="40" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

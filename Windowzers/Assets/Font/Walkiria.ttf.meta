@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2ae9f3e9e95461849800b5f58b645ee6
+timeCreated: 1492173229
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Walkiria
+  fontNames:
+  - Walkiria
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
